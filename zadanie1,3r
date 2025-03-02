@@ -1,0 +1,11 @@
+kostka=function(n)  //zadanie 1
+{
+  wynik=sample(1:6, n)
+  return(wynik)
+}
+
+pole_kola=function(r)  //zadanie3
+{
+  pole <- pi*r^2
+  return(pole)
+}
